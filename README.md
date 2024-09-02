@@ -10,6 +10,10 @@ The license file for the anonymous artifacts.
 
 The main contribution of the paper, which includes the source code for both CompatCircuit and Multi-Party Privacy-Preserving zkVM.
 
+Refer to `<CompatCircuit>/Experiments/scripts/README.md` for detailed instructions on experiments.
+
+Refer to `<CompatCircuit>/Experiments/draw/` for scripts analyzing data and drawing figures.
+
 ## collaborative-zksnark-mod
 
 Modified `collaborative-zksnark`.
